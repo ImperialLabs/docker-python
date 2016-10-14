@@ -14,4 +14,9 @@ FROM slapi/python:latest
 
 - Python 2.7
 
-# Libraries
+# Included Tools & Libraries
+
+- [HTTPie](https://github.com/jkbrzt/httpie)
+- [Arrow](https://github.com/crsmithdev/arrow)
+- [Requests](https://github.com/kennethreitz/requests)
+- [awscli](https://github.com/aws/aws-cli)
